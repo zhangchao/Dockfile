@@ -1,7 +1,4 @@
 Dockfile
 ========
-MongoDB 
-NodeJS
-Python 
-Grunt 
-Bower
+
+learn Hadoop Hive Pig 
